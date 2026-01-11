@@ -1,5 +1,5 @@
 <h1 align="center">Привет 👋, я Skeletron72</h1>
-<h3 align="center">Маленький геймдев разработчик из России</h3>
+<h3 align="center">Геймдев разработчик из России</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skeletron72&label=Profile%20views&color=0e75b6&style=flat" alt="skeletron72" /> </p>
 
